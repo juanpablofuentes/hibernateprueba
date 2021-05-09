@@ -59,6 +59,6 @@ public class Actor {
 	}
 	@Override
 	public String toString() {
-	return "Actor id=" + actor_id + ", nombre=" + first_name+" "+last_name + "]";
+	return "Actor id=" + actor_id + ",nombre=" + first_name+" "+last_name + "]";
 	}
 }
